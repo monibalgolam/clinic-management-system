@@ -1,0 +1,15 @@
+ID: 6
+Name: Mohammed Ali
+Phone: 0924676655
+Diagnosis: Allergy
+-----------------------------
+ID: 7
+Name:  Ali
+Phone: 0928824356
+Diagnosis: Flu
+-----------------------------
+ID: 8
+Name: Awais
+Phone: 0910665585
+Diagnosis: Allergy
+-----------------------------
